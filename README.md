@@ -1,2 +1,2 @@
 # Sudoku
-This is Sudoku Solver project
+This is amazing Sudoku Solver project
