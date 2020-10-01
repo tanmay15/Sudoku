@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+/*splash screen*/
 public class MainActivity extends AppCompatActivity {
     private final int SPLASH_DISPLAY_LENGTH = 5000;
     @Override
